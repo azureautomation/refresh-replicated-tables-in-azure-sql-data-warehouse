@@ -1,0 +1,20 @@
+{
+    "Author": "Allan.Miller",
+    "ContentSize": 3499,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/refresh-replicated-tables-in-azure-sql-data-warehouse/master/RefreshReplicatedTable.ps1",
+    "DownloadCount": 834,
+    "Id": "Refresh-Replicated-Tables-725022cb",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 256,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-11-3T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Refresh Replicated Tables in Azure SQL Data WarehouseWorkflow created to assist in refreshing or caching replicated tables in Azure SQL Data Warehouse.What is a replicated table?The concepted can decrease data movement for D-SQL operations.\u00a0https://docs.microsoft.com/en-us/azure/",
+    "Title": "Refresh Replicated Tables in Azure SQL Data Warehouse",
+    "UpdatedDate": "2017-11-3T00:00:00",
+    "Url": "https://github.com/azureautomation/refresh-replicated-tables-in-azure-sql-data-warehouse",
+    "UserTags": "Azure Automation, Azure SQL Data Warehouse"
+}
